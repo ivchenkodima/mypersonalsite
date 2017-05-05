@@ -15,8 +15,7 @@ var gulp = require('gulp'),
 
   rigger = require('gulp-rigger'),
   rimraf = require('rimraf'),
-  ghPages = require('gulp-gh-pages),
-
+  ghPages = require('gulp-gh-pages'),
   browserSync = require("browser-sync"),
   reload = browserSync.reload;
 
